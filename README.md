@@ -19,7 +19,7 @@ The QR Code Generator is a simple web application that allows users to generate 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/zeshaninsta/QR_Code_Generator.git
 
 2. Navigate to project directory
 
