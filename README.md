@@ -14,7 +14,7 @@ The QR Code Generator is a simple web application that allows users to generate 
 1. Open the QR Code Generator web page.
 2. Enter the text you want to encode into the input field.
 3. Click the "Generate" button.
-4. The QR code for the entered text will be displayed below the input field
+4. The QR code for the entered text will be displayed above the input field
 
 ## Installation
 1. Clone the repository:
